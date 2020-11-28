@@ -12,6 +12,6 @@
   "dependencies": {
     "@botmock/dialogflow-fulfillment-builder": "^1.0.0",
     "express": "^4.17.1",
-    "@botmock/utils": "0.1.1"
+    "@botmock/utils": "0.1.2"
   }
 }
